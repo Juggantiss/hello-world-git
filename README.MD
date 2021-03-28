@@ -147,3 +147,11 @@ hello world
 1. one thing (yeah!)
 2. two thing `i can write code`, and `more` wipee!
 ```
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Juan   | Martinez | 11271999  |
+| Miguel | Toledo   | 24121999  |
+| Itzel  | Ruiz     | 18111999  |
