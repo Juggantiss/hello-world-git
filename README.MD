@@ -44,3 +44,9 @@
 1.  Esto es una lista ordenada combinado
 
 - con una desordenada.
+
+# Links
+
+- <a href="https://www.google.com">Esto es un link HTML</a>
+- [Esto es un link Markdown](https://www.google.com)
+- [Esto es un link al index](index.html)
