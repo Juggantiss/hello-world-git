@@ -155,3 +155,13 @@ hello world
 | Juan   | Martinez | 11271999  |
 | Miguel | Toledo   | 24121999  |
 | Itzel  | Ruiz     | 18111999  |
+
+# Citas
+
+Esto es un texto referente a una cita que pondremos debajo:
+
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+
+> Esto es otra cita
