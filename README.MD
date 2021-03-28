@@ -14,11 +14,13 @@
 
 # Underlines
 
-Underline 1
--------------
+## Underline 1
 
-Underline 2
-============
+`-------------`
+
+# Underline 2
+
+`============`
 
 # Formatos de enfasis
 
@@ -48,3 +50,7 @@ Underline 2
 - <a href="https://www.google.com">Esto es un link HTML</a>
 - [Esto es un link Markdown](https://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+
+![Logo GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)
